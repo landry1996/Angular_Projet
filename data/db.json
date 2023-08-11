@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 70000,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 150000,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 30000,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 3000,
+      "checked": false
+    },
+    {
+      "id": 5,
+      "name": "Iphone",
+      "price": 130000,
+      "checked": true
+    },
+    {
+      "id": 6,
+      "name": "Google Pixel",
+      "price": 430000,
+      "checked": false
+    },
+    {
+      "name": "Huawei P20",
+      "price": "250000",
+      "checked": true,
+      "id": 7
+    }
+  ]
+}
